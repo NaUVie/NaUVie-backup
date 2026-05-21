@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+
+<div align="center">
+  <h3>🚀 My GitHub Space Shooter</h3>
+  <img src="game.gif" alt="GitHub Game" width="100%" />
+</div>
